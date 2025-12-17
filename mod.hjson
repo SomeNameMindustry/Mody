@@ -1,1 +1,8 @@
-
+name: "mod-name"
+displayName: "Firstm moddy mod"
+author: justcallmejust
+description: "hail became balista"
+version: "0.1"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
