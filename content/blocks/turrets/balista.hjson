@@ -6,18 +6,58 @@ range: 155
 health: 450
 rotateSpeed: 4
 recoil: 1
-reload: 60
+reload: 52
 inaccuracy: 1
-ammoPerShot: 2
+ammoPerShot: 3
 ammoTypes: {
 	graphite: {
     collidesGround: true
     collidesAir: true
+    reloadMultiplier: 1.2
     damage: 50
     pierce : true
-    pierceCap :2
+    pierceCap : 2
     splashDamage: 5
     splashDamageRadius: 16
+    ammoMultiplier: 1
+    speed: 4
+    lifetime: 50
+    sprite: arrow
+    width: 6
+    height: 15
+    frontColor: ffffff00
+    backColor: ffffff00
+    trailColor: d8d97f
+		}
+ 	scrap: {
+    collidesGround: true
+    collidesAir: true
+    reloadMultiplier: 1
+    damage: 32
+    pierce : true
+    pierceCap : 3
+    splashDamage: 9
+    splashDamageRadius: 19
+    ammoMultiplier: 1
+    inacurracy: 3
+    speed: 4
+    lifetime: 50
+    sprite: arrow
+    width: 6
+    height: 15
+    frontColor: ffffff00
+    backColor: ffffff00
+    trailColor: d8d97f
+		}
+	plastanium: {
+    collidesGround: true
+    collidesAir: true
+    reloadMultiplier: 0.9
+    damage: 78
+    pierce : true
+    pierceCap : 2
+    splashDamage: 2
+    splashDamageRadius: 37
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
