@@ -1,1 +1,28 @@
+type: PowerTurret
+size: 4
+health: 2300
+range: 240
+rotateSpeed: 0.7
+reload: 200
 
+consumes: {
+  power: 1000
+} 
+recoil: 7
+shootType: {
+
+  lengthFalloff: 1.2
+  type: LaserBulletType
+  length: 250
+  width: 9
+  damage: 1200
+
+}
+category: turret
+requirements: [
+  copper/750
+  graphite/350
+  silicon/200
+  plastanium/150
+  surge-alloy/150
+]
