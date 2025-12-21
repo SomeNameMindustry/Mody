@@ -9,11 +9,11 @@ recoil: 1
 reload: 112
 inaccuracy: 6
 ammoPerShot: 5
-ammoCapacity: 15
+maxAmmo: 15
 shoot: {
   type: ShootBarrel
   shots: 3
-  shootDelay: 0
+  shotDelay: 2.5
   barrels: 3
   barrels: [
    0, 0, 0,
@@ -34,7 +34,7 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
@@ -54,7 +54,7 @@ ammoTypes: {
     inacurracy: 3
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
@@ -73,7 +73,7 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
