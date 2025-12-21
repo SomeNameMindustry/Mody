@@ -6,15 +6,27 @@ range: 155
 health: 350
 rotateSpeed: 1.5
 recoil: 1
-reload: 52
-inaccuracy: 1
-ammoPerShot: 3
+reload: 112
+inaccuracy: 6
+ammoPerShot: 5
+ammoCapacity: 15
+shoot: {
+  type: ShootBarrel
+  shots: 3
+  shootDelay: 0
+  barrels: 3
+  barrels: [
+   0, 0, 0,
+    6, 0, 0,
+    -6, 0, 0
+  ]
+}
 ammoTypes: {
 	graphite: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 0.8
-    damage: 45
+    damage: 65
     pierce : true
     pierceCap : 2
     splashDamage: 5
@@ -25,15 +37,15 @@ ammoTypes: {
     sprite: arrow
     width: 6
     height: 15
-    frontColor: #5e433c
-    backColor: #5e433c
+    frontColor: 5e433c
+    backColor: 5e433c
     trailColor: d8d97f
 		}
  	scrap: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 1
-    damage: 28
+    damage: 45
     pierce : true
     pierceCap : 3
     splashDamage: 9
@@ -45,15 +57,15 @@ ammoTypes: {
     sprite: arrow
     width: 6
     height: 15
-    frontColor: #5e433c
-    backColor: #5e433c
+    frontColor: 5e433c
+    backColor: 5e433c
     trailColor: d8d97f
 		}
 	plastanium: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 1.1
-    damage: 72
+    damage: 100
     pierce : true
     pierceCap : 2
     splashDamage: 2
@@ -64,21 +76,23 @@ ammoTypes: {
     sprite: arrow
     width: 6
     height: 15
-    frontColor: #5e433c
-    backColor: #5e433c
+    frontColor: 5e433c
+    backColor: 5e433c
     trailColor: d8d97f
 		}
 }
 consumes: {
   coolant: { 
-    amount: 1
+    amount: 2.5
   }
 }
 
-coolantMultiplier: 1.5
+coolantMultiplier: 1.9
 category: turret
 requirements: [
-  copper/120
-  lead/50
+  copper/450
+  lead/150
+  graphite/120
   silicon/40
+  
 ]
