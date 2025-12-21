@@ -1,7 +1,8 @@
 name: "mm"
 displayName: "My first moddy mod"
 author: justcallmejust
-description: "hail became balista"
+description: "My first mod so far, currently has not much to it,
+Adds balista tower"
 version: "0.1"
 minGameVersion: "146"
 dependencies: [ ]
