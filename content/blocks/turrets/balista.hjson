@@ -2,7 +2,7 @@ type: ItemTurret
 targetGround: true
 targetAir: true
 size: 1
-range: 160
+range: 155
 health: 450
 rotateSpeed: 4
 recoil: 1
@@ -11,7 +11,8 @@ inaccuracy: 1
 ammoPerShot: 2
 ammoTypes: {
 	graphite: {
-    collidesGround: false
+    collidesGround: true
+    collidesAir: true
     damage: 50
     pierce : true
     pierceCap :2
@@ -23,14 +24,14 @@ ammoTypes: {
     sprite: arrow
     width: 6
     height: 15
-    frontColor: ffffffff
-    backColor: ffffffff
+    frontColor: ffffff00
+    backColor: ffffff00
     trailColor: d8d97f
 		}
 }
 consumes: {
   coolant: { 
-    amount: 0.6
+    amount: 1
   }
 }
 
