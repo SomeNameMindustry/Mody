@@ -2,7 +2,7 @@ name: "mm"
 displayName: "My first moddy mod"
 author: justcallmejust
 description: "My first mod so far, currently has not much to it,
-Adds balista tower"
+Adds balista, multi-balista tower"
 version: "0.1"
 minGameVersion: "146"
 dependencies: [ ]
