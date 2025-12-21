@@ -12,6 +12,8 @@ ammoTypes: {
 	graphite: {
     collidesGround: false
     damage: 50
+    pierce : true
+    pierceCap :2
     splashDamage: 5
     splashDamageRadius: 16
     ammoMultiplier: 1
