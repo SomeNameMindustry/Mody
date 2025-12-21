@@ -3,7 +3,7 @@ targetGround: true
 targetAir: true
 size: 3
 range: 155
-health: 350
+health: 800
 rotateSpeed: 1.5
 recoil: 1
 reload: 112
