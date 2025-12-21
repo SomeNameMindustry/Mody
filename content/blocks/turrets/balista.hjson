@@ -1,8 +1,9 @@
 type: ItemTurret
-targetGround: false
+targetGround: true
+targetAir: true
 size: 1
-range: 125
-health: 1250
+range: 160
+health: 450
 rotateSpeed: 4
 recoil: 1
 reload: 60
@@ -17,13 +18,13 @@ ammoTypes: {
     splashDamage: 5
     splashDamageRadius: 16
     ammoMultiplier: 1
-    speed: 3
-    lifetime: 45
+    speed: 4
+    lifetime: 50
     sprite: arrow
-    width: 4
-    height: 1
-    frontColor: fffac6
-    backColor: d8d97f
+    width: 6
+    height: 15
+    frontColor: ffffffff
+    backColor: ffffffff
     trailColor: d8d97f
 		}
 }
@@ -33,7 +34,7 @@ consumes: {
   }
 }
 
-coolantMultiplier: 1.2
+coolantMultiplier: 1.5
 category: turret
 requirements: [
   copper/120
