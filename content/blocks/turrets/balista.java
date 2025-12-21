@@ -17,7 +17,7 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 3
     lifetime: 45
-    sprite: missile-large
+    sprite: arrow
     width: 4
     height: 1
     frontColor: fffac6
