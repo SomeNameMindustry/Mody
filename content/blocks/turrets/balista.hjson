@@ -22,7 +22,7 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
@@ -42,7 +42,7 @@ ammoTypes: {
     inacurracy: 3
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
@@ -61,7 +61,7 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: arrow
+    sprite: mm-arrow
     width: 6
     height: 15
     frontColor: 5e433c
