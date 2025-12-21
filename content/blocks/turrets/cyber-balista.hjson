@@ -3,10 +3,10 @@ size: 4
 health: 2300
 range: 240
 rotateSpeed: 0.7
-reload: 200
+reload: 360
 
 consumes: {
-  power: 1000
+  power: 1000/60
 } 
 recoil: 7
 shootType: {
