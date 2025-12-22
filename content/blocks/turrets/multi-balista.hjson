@@ -10,7 +10,15 @@ reload: 112
 inaccuracy: 6
 ammoPerShot: 5
 maxAmmo: 15
-parent: mm-balista
+research: {
+  parent: mm-balista
+  requirements: [
+  copper/1600
+  lead/1250
+  silicon/1200
+  graphite/900
+  ]
+}
 shoot: {
   type: ShootBarrel
   shots: 3
