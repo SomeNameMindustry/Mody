@@ -1,3 +1,5 @@
-difficulty: 1,
-planet: serpulo,
-sector: 62
+captureWave: 10
+planet: serpulo
+sector: 75
+difficulty: 1
+alwaysUnlocked: true
