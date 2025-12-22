@@ -8,7 +8,7 @@ research: {
   objectives: [
     {
       type: SectorComplete
-      preset: the-craters
+      preset: craters
     }
   ]
 }
