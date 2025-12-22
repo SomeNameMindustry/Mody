@@ -26,3 +26,14 @@ requirements: [
   plastanium/150
   surge-alloy/150
 ]
+research: {
+  parent: mm-multi-balista
+  requirements: [
+  copper/5000
+  lead/1500
+  silicon/2500
+  graphite/2900
+  plastanium/1600
+  surge-alloy/1000
+  ]
+}
