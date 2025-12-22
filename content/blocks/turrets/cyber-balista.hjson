@@ -6,7 +6,7 @@ rotateSpeed: 0.7
 reload: 360
 
 consumes: {
-  power: (1200/60)
+  power: 50
 } 
 recoil: 7
 shootType: {
