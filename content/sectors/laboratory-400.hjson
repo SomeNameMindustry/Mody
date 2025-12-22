@@ -1,0 +1,13 @@
+difficulty: 3
+planet: serpulo
+sector: 40
+description: One of the crux side labs, we have information that they are developing something new.
+research: {
+  parent: frozen-florest
+  objectives: [
+    {
+      type: SectorComplete
+      preset: the-craters
+    }
+  ]
+}
