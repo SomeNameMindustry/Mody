@@ -2,8 +2,5 @@ difficulty: 1,
 planet: erekir,
 sector: 62,
 research: {
-parent: onset,
-objectives: [
-breach
-]
+parent: onset
 }
