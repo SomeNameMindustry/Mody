@@ -25,8 +25,8 @@ ammoTypes: {
     sprite: mm-arrow
     width: 32
     height: 32
-    frontColor: none
-    backColor: none
+    frontColor: 00000000
+    backColor: 00000000
     trailColor: d8d97f
 		}
  	scrap: {
