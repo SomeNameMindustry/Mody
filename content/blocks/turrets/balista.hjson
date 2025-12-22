@@ -82,3 +82,11 @@ requirements: [
   lead/50
   silicon/40
 ]
+research: {
+  parent: duo
+  requirements: [
+  copper/600
+  lead/250
+  silicon/200
+  ]
+}
