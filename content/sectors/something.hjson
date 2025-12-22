@@ -3,4 +3,7 @@ planet: erekir,
 sector: 62,
 research: {
 parent: onset,
+objectives: [
+breach
+]
 }
