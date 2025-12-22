@@ -2,11 +2,11 @@ type: ItemTurret
 targetGround: true
 targetAir: true
 size: 3
-range: 155
-health: 800
+range: 200
+health: 1200
 rotateSpeed: 1.5
-recoil: 1
-reload: 112
+recoil: 3
+reload: 172
 inaccuracy: 6
 ammoPerShot: 5
 maxAmmo: 15
@@ -41,7 +41,7 @@ ammoTypes: {
     splashDamage: 5
     splashDamageRadius: 16
     ammoMultiplier: 1
-    speed: 4
+    speed: 5
     lifetime: 50
     sprite: mm-arrow
     width: 32
@@ -61,7 +61,7 @@ ammoTypes: {
     splashDamageRadius: 19
     ammoMultiplier: 1
     inaccurracy: 2
-    speed: 4
+    speed: 5
     lifetime: 50
     sprite: mm-arrow
     width: 32
@@ -80,7 +80,7 @@ ammoTypes: {
     splashDamage: 2
     splashDamageRadius: 37
     ammoMultiplier: 1
-    speed: 4
+    speed: 5
     lifetime: 50
     sprite: mm-arrow
     width: 32
