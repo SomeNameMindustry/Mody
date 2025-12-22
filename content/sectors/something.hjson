@@ -1,6 +1,3 @@
 difficulty: 1,
-planet: erekir,
-sector: 62,
-research: {
-parent: onset
-}
+planet: serpulo,
+sector: 62
