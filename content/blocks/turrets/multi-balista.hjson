@@ -60,7 +60,7 @@ ammoTypes: {
     splashDamage: 9
     splashDamageRadius: 19
     ammoMultiplier: 1
-    inaccurracy: 2
+    inaccuracy: 2
     speed: 5
     lifetime: 50
     sprite: mm-arrow
