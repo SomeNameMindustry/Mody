@@ -4,7 +4,7 @@ planet: serpulo
 sector: 40
 description: One of the crux side labs, we have information that they are developing something new.
 research: {
-  parent: florest
+  parent: frozen-forest
   objectives: [
     {
       type: SectorComplete
