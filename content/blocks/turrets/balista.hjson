@@ -4,17 +4,18 @@ targetAir: true
 size: 1
 range: 155
 health: 350
-rotateSpeed: 1.5
+rotateSpeed: 1.2
 recoil: 1
-reload: 52
+reload: 78
 inaccuracy: 1
+maxAmmo: 3
 ammoPerShot: 3
 ammoTypes: {
 	graphite: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 0.8
-    damage: 45
+    damage: 40
     pierce : true
     pierceCap : 2
     splashDamage: 5
@@ -31,13 +32,13 @@ ammoTypes: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 1
-    damage: 28
+    damage: 25
     pierce : true
     pierceCap : 3
     splashDamage: 9
     splashDamageRadius: 19
     ammoMultiplier: 1
-    inaccurracy: 3
+   "inaccurracy: 3"
     speed: 4
     lifetime: 50
     sprite: mm-arrow
@@ -51,7 +52,7 @@ ammoTypes: {
     collidesGround: true
     collidesAir: true
     reloadMultiplier: 1.1
-    damage: 72
+    damage: 62
     pierce : true
     pierceCap : 2
     splashDamage: 2
@@ -73,7 +74,7 @@ consumes: {
   }
 }
 
-coolantMultiplier: 1.5
+coolantMultiplier: 1
 category: turret
 requirements: [
   copper/120
