@@ -1,1 +1,13 @@
-
+difficulty: 8
+planet: serpulo
+sector: 24
+description: One one crux most important labs, we disovered that the balista info leaked from lab-400 and arrived here, where we belive it's most powerfull version was made.
+research: {
+  parent: impact0078
+  objectives: [
+    {
+      type: SectorComplete
+      preset: impact0078
+    }
+  ]
+}
