@@ -6,7 +6,7 @@ range: 200
 health: 1200
 rotateSpeed: 1.5
 recoil: 3
-reload: 172
+reload: 152
 inaccuracy: 6
 ammoPerShot: 5
 maxAmmo: 15
@@ -23,6 +23,7 @@ shoot: {
   type: ShootBarrel
   shots: 3
   shotDelay: 2.5
+  firstShotDelay: 0.5
   barrels: 3
   barrels: [
    0, 0, 0,
