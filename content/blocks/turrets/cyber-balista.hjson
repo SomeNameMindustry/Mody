@@ -1,7 +1,7 @@
 type: PowerTurret
 size: 4
 health: 2300
-range: 240
+range: 400
 rotateSpeed: 0.7
 reload: 360
 
@@ -18,9 +18,12 @@ shootType: {
 
   lengthFalloff: 1.2
   type: LaserBulletType
-  length: 250
+  length: 410
   width: 9
-  damage: 1200
+  damage: 900
+  lightningSpacing : 42
+  ligthningDelay: 0.5
+  lifetime: 82
 
 }
 category: turret
