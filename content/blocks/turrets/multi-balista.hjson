@@ -97,7 +97,7 @@ consumes: {
   }
 }
 
-coolantMultiplier: 1.9
+coolantMultiplier: 1.4
 category: turret
 requirements: [
   copper/450
