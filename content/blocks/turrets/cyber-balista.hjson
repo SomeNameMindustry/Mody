@@ -11,37 +11,38 @@ consumes: {
 recoil: 7
 shoot: {
 
- firstShotDelay: 2
+ firstShotDelay: 3
 
 }
 shootType: {
 
-  lengthFalloff: 1.2
+  lengthFalloff: 1
   type: LaserBulletType
   length: 410
   width: 9
   damage: 900
-  lightningSpacing : 42
-  ligthningDelay: 0.5
+  lightningSpacing : 15
+  lightningDamage: 150
+  lightningDelay: 0.5
   lifetime: 82
 
 }
 category: turret
 requirements: [
-  copper/750
+  copper/1350
   graphite/350
-  silicon/200
+  silicon/400
   plastanium/150
-  surge-alloy/150
+  surge-alloy/450
 ]
 research: {
   parent: mm-multi-balista
   requirements: [
   copper/5000
   lead/1500
-  silicon/2500
-  graphite/2900
-  plastanium/1600
-  surge-alloy/1000
+  silicon/5500
+  graphite/3500
+  plastanium/3600
+  surge-alloy/2000
   ]
 }
