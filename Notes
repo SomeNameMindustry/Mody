@@ -9,12 +9,16 @@ Turrets:
 
   defensor: A tanky projectle destroyer, made to protect nearby blocks and destroy incoming strikes, developed by sharded. (sharded, crux)
 , absorver: After crux saw the power of defensor, they decided to steal it's tech and improve further into their likings, a turret upgrade for phase walls. (crux, sharded)
-, striker: Throughout the battle for who will dominate serpulo, sharded advanced further into offensive-defensive turrets, striking powerful attacks from far away and up close. (sharded)
+, striker: Throughout the battle for who will dominate serpulo, sharded advanced further into offensive turrets, striking powerful attacks from far away, less effetive on units. (sharded)
 , forbidden: Throughout the battle for who will dominate serpulo, crux advanced further into the ultimate defense, taken illegal by sharded, it's a nightmare for those who survived. (crux)
+, traker(needs name ideas): This turret launches 7 bullets in a 360 angle that homes after little time, very fastly into nearby opponents, slow and pricy, but very effective. (crux)
 
 Units:
 
  Up coming:
+
+  hover: a naval/ground hybrid that hovers over the ground and travel fastly at water, mostly defensive, but can prove it self a nightmare to enemy structures. (?)
+, water-jet: a naval/air hybrid that flyes at extreme speed and travel slowly on water, mostly offensive, but can prove it self a nightmare to enemy units. (?)
 
   
 
