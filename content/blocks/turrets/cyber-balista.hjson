@@ -9,6 +9,11 @@ consumes: {
   power: 20
 } 
 recoil: 7
+shoot: {
+
+ firstShotDelay: 2
+
+}
 shootType: {
 
   lengthFalloff: 1.2
