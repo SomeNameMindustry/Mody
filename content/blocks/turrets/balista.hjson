@@ -10,8 +10,11 @@ reload: 78
 inaccuracy: 1
 maxAmmo: 3
 ammoPerShot: 3
-shoot: 
+shoot: {
+
  firstShotDelay: 0.4
+
+}
 ammoTypes: {
 	graphite: {
     collidesGround: true
