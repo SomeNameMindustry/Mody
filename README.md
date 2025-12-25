@@ -23,21 +23,39 @@ turrets and maps
 that's it
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 We don't talk about the missing "l"
