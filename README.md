@@ -20,3 +20,23 @@ v0.3 will include
 --i have no idea--
 
 turrets and maps
+that's it
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+We don't talk about the missing "l"
