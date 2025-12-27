@@ -1,13 +1,18 @@
 name: "mm"
-displayName: "My first moddy mod"
+displayName: "Moddy Mod"
 author: justcallmejust
 description: "My first mod so far, currently has not much to it,
-Adds balista, multi-balista tower, cyber-balista(WIP), two new maps for serpulo,
-i would be pleased if you tested the mod and found any non-intencional mistakes
-Name ideas would be welcome as well
-v0.07
+v0.08
+
+
+Adds balista, multi-balista tower, cyber-balista( or Bettle in-game, WIP), two new maps for serpulo,
+we removed support for v7 due to some problems with mapping, we will try to fix it later
+cyber balista finally has a sprite (...).
+renamed from "My first moddy mod" to "Moddy Mod"
+
+i would be pleased if you tested the mod and dm me about any bug
 Idk how to fix the arrow projectile btw."
-version: "0.07"
-minGameVersion: "146"
+version: "0.08"
+minGameVersion: "149"
 dependencies: [ ]
 hidden: false
