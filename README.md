@@ -14,7 +14,7 @@ Basically balista and it's relatives and maps where you unlock them
 v0.2 will include 
 
 turrets and maps
-warper tree, if possible
+sentinel tree, if possible
 
 v0.3 will include
 
