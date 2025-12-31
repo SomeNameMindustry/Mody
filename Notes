@@ -21,6 +21,7 @@ Units:
 , water-jet: a naval/air hybrid that flyes at extreme speed and travel slowly on water, mostly offensive, but can prove it self a nightmare to enemy units. (sharded)
 , warper: An air unit capable of semi-teleportation across the field, extremelly vulnerable and yet powerful, it's singular dps can take down entire defenses in a mere blink. (crux, sharded)
 (warper warping ability isn't a teleportation due to lack of coding skill, instead it will be a incredible speed boost for very few miliseconds with 0 shooting effect, will have very limited range, speculating to be 170-180, minimum and max range as where the ability can be used if there is a oponent inside, the warp should lead the warper to about the middle of the given range, may change according to unit speed allowing for longer/shorter warps, it will grant a effect called warped, which heavily reduces speed and boosts fire rate)
+,  sentinel: A very slow and bulky leg based unit, low dps, focus on high damage and high hp/armor and high range, considered the opposite of warper
   
 
 
