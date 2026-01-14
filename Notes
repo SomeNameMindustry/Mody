@@ -1,13 +1,14 @@
 Turrets:
- Concluded(or aproximate) {
+ Concluded(or aproximate) 
 
   balista: A simple and small turret developed by crux, the beggining of something new. (crux, sharded)
 , multi-balista: One sucessful attempt to upgrade the balista. (crux, sharded)
 , cyber-balista: A powerfull laser shooter, a huge advance from the balista. (crux, sharded)
+  defensor: A tanky projectle destroyer, made to protect nearby blocks and destroy incoming strikes, developed by sharded. (sharded, crux)
 
  Up coming:
 
-  defensor: A tanky projectle destroyer, made to protect nearby blocks and destroy incoming strikes, developed by sharded. (sharded, crux)
+  
 , absorver: After crux saw the power of defensor, they decided to steal it's tech and improve further into their likings, a turret upgrade for phase walls. (crux, sharded)
 , striker: Throughout the battle for who will dominate serpulo, sharded advanced further into offensive turrets, striking powerful attacks from far away, less effetive on units. (sharded)
 , forbidden: Throughout the battle for who will dominate serpulo, crux advanced further into the ultimate defense, taken illegal by sharded, it's a nightmare for those who survived. (crux)
