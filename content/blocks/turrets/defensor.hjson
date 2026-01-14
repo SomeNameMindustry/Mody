@@ -1,1 +1,13 @@
-
+type: PointDefenseTurret
+targetGround: true
+targetAir: true
+size: 2
+range: 72
+health: 1350
+armor: 5
+rotateSpeed: 5
+recoil: 0.2
+reload: 2
+retargetTime: 0.5
+bulletDamage: 5
+shootLength : 2
