@@ -3,20 +3,20 @@ targetGround: true
 targetAir: true
 size: 2
 range: 72
-health: 1350
-armor: 5
+health: 2350
+armor: 15
 rotateSpeed: 5
-recoil: 0.2
-reload: 2
+recoil: 1.5
+reload: 30
 retargetTime: 0.5
-bulletDamage: 5
+bulletDamage: 150
 shootLength : 2
 
 consumes: {
-  power: 3
+  power: 7
 }
 requirements: [
-  copper/270
+  titanium/270
   lead/550
   silicon/300
   phase-fabric/100
