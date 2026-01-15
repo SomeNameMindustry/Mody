@@ -11,3 +11,14 @@ reload: 2
 retargetTime: 0.5
 bulletDamage: 5
 shootLength : 2
+
+consumes: {
+  power: 3
+}
+requirements: [
+  copper/270
+  lead/550
+  silicon/300
+  phase-fabric/100
+]
+category: turret
