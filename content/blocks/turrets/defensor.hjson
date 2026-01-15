@@ -6,14 +6,14 @@ range: 72
 health: 2350
 armor: 15
 rotateSpeed: 5
-recoil: 1.5
-reload: 30
-retargetTime: 0.5
-bulletDamage: 150
+recoil: 0.5
+reload: 15
+retargetTime: 0.1
+bulletDamage: 100
 shootLength : 2
 
 consumes: {
-  power: 7
+  power: 12
 }
 requirements: [
   titanium/270
