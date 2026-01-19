@@ -1,9 +1,8 @@
-HEllOW, well, i don't really know what to add here, uhh
-
-Notes is where you can find anything i keep stored for future ideas
-
-Cyber-balista sprite is WIP (did not even start)
+First of all, updates might be inconsistant
+Due to the issues listened below, i decided that v0.1 will include more turrets than supposed to add in extra content
 Sound effects still don't exist
+
+also since the arrow is transparancy is a little off, and i have no idea how to fix it, we will just remove it
 
 Turrets will be proprely named when i complete this current version (0.1)
 
