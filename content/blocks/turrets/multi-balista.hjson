@@ -44,9 +44,9 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 5
     lifetime: 50
-    sprite: mm-arrow
-    width: 32
-    height: 32
+    
+    width: 8
+    height: 8
     frontColor: 5e433cff
     backColor: 5e433cff
     trailColor: d8d97f
@@ -64,9 +64,9 @@ ammoTypes: {
     inaccuracy: 2
     speed: 5
     lifetime: 50
-    sprite: mm-arrow
-    width: 32
-    height: 32
+    
+    width: 8
+    height: 8
     frontColor: 5e433cff
     backColor: 5e433cff
     trailColor: d8d97f
@@ -83,9 +83,9 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 5
     lifetime: 50
-    sprite: mm-arrow
-    width: 32
-    height: 32
+    
+    width: 8
+    height: 8
     frontColor: 5e433cff
     backColor: 5e433cff
     trailColor: d8d97f
