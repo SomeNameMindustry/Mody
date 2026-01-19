@@ -63,7 +63,7 @@ ammoTypes: {
     speed: 4
     lifetime: 50
     
-    width: 32
+    width: 8
     height: 8
     trailColor: d8d97f
 		}
