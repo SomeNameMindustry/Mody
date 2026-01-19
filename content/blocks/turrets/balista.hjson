@@ -28,9 +28,8 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: mm-arrow
-    width: 32
-    height: 32
+    width: 8
+    height: 8
     trailColor: d8d97f
 		}
  	scrap: {
@@ -46,9 +45,9 @@ ammoTypes: {
     inaccuracy: 3
     speed: 4
     lifetime: 50
-    sprite: mm-arrow
-    width: 32
-    height: 32
+    
+    width: 8
+    height: 8
     trailColor: d8d97f
 		}
 	plastanium: {
@@ -63,9 +62,9 @@ ammoTypes: {
     ammoMultiplier: 1
     speed: 4
     lifetime: 50
-    sprite: mm-arrow
+    
     width: 32
-    height: 32
+    height: 8
     trailColor: d8d97f
 		}
 }
